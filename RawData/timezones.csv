@@ -1,0 +1,416 @@
+fff111,AD,mmm111,+4230+00131,mmm112,Europe/Andorra,mmm113,,mmm114,AD,eee111
+fff111,AE,mmm111,+2518+05518,mmm112,Asia/Dubai,mmm113,,mmm114,AE,eee111
+fff111,AF,mmm111,+3431+06912,mmm112,Asia/Kabul,mmm113,,mmm114,AF,eee111
+fff111,AG,mmm111,+1703-06148,mmm112,America/Antigua,mmm113,,mmm114,AG,eee111
+fff111,AI,mmm111,+1812-06304,mmm112,America/Anguilla,mmm113,,mmm114,AI,eee111
+fff111,AL,mmm111,+4120+01950,mmm112,Europe/Tirane,mmm113,,mmm114,AL,eee111
+fff111,AM,mmm111,+4011+04430,mmm112,Asia/Yerevan,mmm113,,mmm114,AM,eee111
+fff111,AO,mmm111,-0848+01314,mmm112,Africa/Luanda,mmm113,,mmm114,AO,eee111
+fff111,AQ,mmm111,-7750+16636,mmm112,Antarctica/McMurdo,mmm113,"McMurdo, South Pole, Scott (New Zealand time)",mmm114,AQ,eee111
+fff111,AQ,mmm111,-6734-06808,mmm112,Antarctica/Rothera,mmm113,"Rothera Station, Adelaide Island",mmm114,AQ,eee111
+fff111,AQ,mmm111,-6448-06406,mmm112,Antarctica/Palmer,mmm113,"Palmer Station, Anvers Island",mmm114,AQ,eee111
+fff111,AQ,mmm111,-6736+06253,mmm112,Antarctica/Mawson,mmm113,"Mawson Station, Holme Bay",mmm114,AQ,eee111
+fff111,AQ,mmm111,-6835+07758,mmm112,Antarctica/Davis,mmm113,"Davis Station, Vestfold Hills",mmm114,AQ,eee111
+fff111,AQ,mmm111,-6617+11031,mmm112,Antarctica/Casey,mmm113,"Casey Station, Bailey Peninsula",mmm114,AQ,eee111
+fff111,AQ,mmm111,-7824+10654,mmm112,Antarctica/Vostok,mmm113,"Vostok Station, Lake Vostok",mmm114,AQ,eee111
+fff111,AQ,mmm111,-6640+14001,mmm112,Antarctica/DumontDUrville,mmm113,"Dumont-d'Urville Station, Terre Adelie",mmm114,AQ,eee111
+fff111,AQ,mmm111,-690022+0393524,mmm112,Antarctica/Syowa,mmm113,"Syowa Station, E Ongul I",mmm114,AQ,eee111
+fff111,AQ,mmm111,-720041+0023206,mmm112,Antarctica/Troll,mmm113,"Troll Station, Queen Maud Land",mmm114,AQ,eee111
+fff111,AR,mmm111,-3436-05827,mmm112,America/Argentina/Buenos_Aires,mmm113,"Buenos Aires (BA, CF)",mmm114,AR,eee111
+fff111,AR,mmm111,-3124-06411,mmm112,America/Argentina/Cordoba,mmm113,"most locations (CB, CC, CN, ER, FM, MN, SE, SF)",mmm114,AR,eee111
+fff111,AR,mmm111,-2447-06525,mmm112,America/Argentina/Salta,mmm113,"(SA, LP, NQ, RN)",mmm114,AR,eee111
+fff111,AR,mmm111,-2411-06518,mmm112,America/Argentina/Jujuy,mmm113,Jujuy (JY),mmm114,AR,eee111
+fff111,AR,mmm111,-2649-06513,mmm112,America/Argentina/Tucuman,mmm113,Tucuman (TM),mmm114,AR,eee111
+fff111,AR,mmm111,-2828-06547,mmm112,America/Argentina/Catamarca,mmm113,"Catamarca (CT), Chubut (CH)",mmm114,AR,eee111
+fff111,AR,mmm111,-2926-06651,mmm112,America/Argentina/La_Rioja,mmm113,La Rioja (LR),mmm114,AR,eee111
+fff111,AR,mmm111,-3132-06831,mmm112,America/Argentina/San_Juan,mmm113,San Juan (SJ),mmm114,AR,eee111
+fff111,AR,mmm111,-3253-06849,mmm112,America/Argentina/Mendoza,mmm113,Mendoza (MZ),mmm114,AR,eee111
+fff111,AR,mmm111,-3319-06621,mmm112,America/Argentina/San_Luis,mmm113,San Luis (SL),mmm114,AR,eee111
+fff111,AR,mmm111,-5138-06913,mmm112,America/Argentina/Rio_Gallegos,mmm113,Santa Cruz (SC),mmm114,AR,eee111
+fff111,AR,mmm111,-5448-06818,mmm112,America/Argentina/Ushuaia,mmm113,Tierra del Fuego (TF),mmm114,AR,eee111
+fff111,AS,mmm111,-1416-17042,mmm112,Pacific/Pago_Pago,mmm113,,mmm114,AS,eee111
+fff111,AT,mmm111,+4813+01620,mmm112,Europe/Vienna,mmm113,,mmm114,AT,eee111
+fff111,AU,mmm111,-3133+15905,mmm112,Australia/Lord_Howe,mmm113,Lord Howe Island,mmm114,AU,eee111
+fff111,AU,mmm111,-5430+15857,mmm112,Antarctica/Macquarie,mmm113,Macquarie Island,mmm114,AU,eee111
+fff111,AU,mmm111,-4253+14719,mmm112,Australia/Hobart,mmm113,Tasmania - most locations,mmm114,AU,eee111
+fff111,AU,mmm111,-3956+14352,mmm112,Australia/Currie,mmm113,Tasmania - King Island,mmm114,AU,eee111
+fff111,AU,mmm111,-3749+14458,mmm112,Australia/Melbourne,mmm113,Victoria,mmm114,AU,eee111
+fff111,AU,mmm111,-3352+15113,mmm112,Australia/Sydney,mmm113,New South Wales - most locations,mmm114,AU,eee111
+fff111,AU,mmm111,-3157+14127,mmm112,Australia/Broken_Hill,mmm113,New South Wales - Yancowinna,mmm114,AU,eee111
+fff111,AU,mmm111,-2728+15302,mmm112,Australia/Brisbane,mmm113,Queensland - most locations,mmm114,AU,eee111
+fff111,AU,mmm111,-2016+14900,mmm112,Australia/Lindeman,mmm113,Queensland - Holiday Islands,mmm114,AU,eee111
+fff111,AU,mmm111,-3455+13835,mmm112,Australia/Adelaide,mmm113,South Australia,mmm114,AU,eee111
+fff111,AU,mmm111,-1228+13050,mmm112,Australia/Darwin,mmm113,Northern Territory,mmm114,AU,eee111
+fff111,AU,mmm111,-3157+11551,mmm112,Australia/Perth,mmm113,Western Australia - most locations,mmm114,AU,eee111
+fff111,AU,mmm111,-3143+12852,mmm112,Australia/Eucla,mmm113,Western Australia - Eucla area,mmm114,AU,eee111
+fff111,AW,mmm111,+1230-06958,mmm112,America/Aruba,mmm113,,mmm114,AW,eee111
+fff111,AX,mmm111,+6006+01957,mmm112,Europe/Mariehamn,mmm113,,mmm114,AX,eee111
+fff111,AZ,mmm111,+4023+04951,mmm112,Asia/Baku,mmm113,,mmm114,AZ,eee111
+fff111,BA,mmm111,+4352+01825,mmm112,Europe/Sarajevo,mmm113,,mmm114,BA,eee111
+fff111,BB,mmm111,+1306-05937,mmm112,America/Barbados,mmm113,,mmm114,BB,eee111
+fff111,BD,mmm111,+2343+09025,mmm112,Asia/Dhaka,mmm113,,mmm114,BD,eee111
+fff111,BE,mmm111,+5050+00420,mmm112,Europe/Brussels,mmm113,,mmm114,BE,eee111
+fff111,BF,mmm111,+1222-00131,mmm112,Africa/Ouagadougou,mmm113,,mmm114,BF,eee111
+fff111,BG,mmm111,+4241+02319,mmm112,Europe/Sofia,mmm113,,mmm114,BG,eee111
+fff111,BH,mmm111,+2623+05035,mmm112,Asia/Bahrain,mmm113,,mmm114,BH,eee111
+fff111,BI,mmm111,-0323+02922,mmm112,Africa/Bujumbura,mmm113,,mmm114,BI,eee111
+fff111,BJ,mmm111,+0629+00237,mmm112,Africa/Porto-Novo,mmm113,,mmm114,BJ,eee111
+fff111,BL,mmm111,+1753-06251,mmm112,America/St_Barthelemy,mmm113,,mmm114,BL,eee111
+fff111,BM,mmm111,+3217-06446,mmm112,Atlantic/Bermuda,mmm113,,mmm114,BM,eee111
+fff111,BN,mmm111,+0456+11455,mmm112,Asia/Brunei,mmm113,,mmm114,BN,eee111
+fff111,BO,mmm111,-1630-06809,mmm112,America/La_Paz,mmm113,,mmm114,BO,eee111
+fff111,BQ,mmm111,+120903-0681636,mmm112,America/Kralendijk,mmm113,,mmm114,BQ,eee111
+fff111,BR,mmm111,-0351-03225,mmm112,America/Noronha,mmm113,Atlantic islands,mmm114,BR,eee111
+fff111,BR,mmm111,-0127-04829,mmm112,America/Belem,mmm113,"Amapa, E Para",mmm114,BR,eee111
+fff111,BR,mmm111,-0343-03830,mmm112,America/Fortaleza,mmm113,"NE Brazil (MA, PI, CE, RN, PB)",mmm114,BR,eee111
+fff111,BR,mmm111,-0803-03454,mmm112,America/Recife,mmm113,Pernambuco,mmm114,BR,eee111
+fff111,BR,mmm111,-0712-04812,mmm112,America/Araguaina,mmm113,Tocantins,mmm114,BR,eee111
+fff111,BR,mmm111,-0940-03543,mmm112,America/Maceio,mmm113,"Alagoas, Sergipe",mmm114,BR,eee111
+fff111,BR,mmm111,-1259-03831,mmm112,America/Bahia,mmm113,Bahia,mmm114,BR,eee111
+fff111,BR,mmm111,-2332-04637,mmm112,America/Sao_Paulo,mmm113,"S & SE Brazil (GO, DF, MG, ES, RJ, SP, PR, SC, RS)",mmm114,BR,eee111
+fff111,BR,mmm111,-2027-05437,mmm112,America/Campo_Grande,mmm113,Mato Grosso do Sul,mmm114,BR,eee111
+fff111,BR,mmm111,-1535-05605,mmm112,America/Cuiaba,mmm113,Mato Grosso,mmm114,BR,eee111
+fff111,BR,mmm111,-0226-05452,mmm112,America/Santarem,mmm113,W Para,mmm114,BR,eee111
+fff111,BR,mmm111,-0846-06354,mmm112,America/Porto_Velho,mmm113,Rondonia,mmm114,BR,eee111
+fff111,BR,mmm111,+0249-06040,mmm112,America/Boa_Vista,mmm113,Roraima,mmm114,BR,eee111
+fff111,BR,mmm111,-0308-06001,mmm112,America/Manaus,mmm113,E Amazonas,mmm114,BR,eee111
+fff111,BR,mmm111,-0640-06952,mmm112,America/Eirunepe,mmm113,W Amazonas,mmm114,BR,eee111
+fff111,BR,mmm111,-0958-06748,mmm112,America/Rio_Branco,mmm113,Acre,mmm114,BR,eee111
+fff111,BS,mmm111,+2505-07721,mmm112,America/Nassau,mmm113,,mmm114,BS,eee111
+fff111,BT,mmm111,+2728+08939,mmm112,Asia/Thimphu,mmm113,,mmm114,BT,eee111
+fff111,BW,mmm111,-2439+02555,mmm112,Africa/Gaborone,mmm113,,mmm114,BW,eee111
+fff111,BY,mmm111,+5354+02734,mmm112,Europe/Minsk,mmm113,,mmm114,BY,eee111
+fff111,BZ,mmm111,+1730-08812,mmm112,America/Belize,mmm113,,mmm114,BZ,eee111
+fff111,CA,mmm111,+4734-05243,mmm112,America/St_Johns,mmm113,"Newfoundland Time, including SE Labrador",mmm114,CA,eee111
+fff111,CA,mmm111,+4439-06336,mmm112,America/Halifax,mmm113,"Atlantic Time - Nova Scotia (most places), PEI",mmm114,CA,eee111
+fff111,CA,mmm111,+4612-05957,mmm112,America/Glace_Bay,mmm113,Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971,mmm114,CA,eee111
+fff111,CA,mmm111,+4606-06447,mmm112,America/Moncton,mmm113,Atlantic Time - New Brunswick,mmm114,CA,eee111
+fff111,CA,mmm111,+5320-06025,mmm112,America/Goose_Bay,mmm113,Atlantic Time - Labrador - most locations,mmm114,CA,eee111
+fff111,CA,mmm111,+5125-05707,mmm112,America/Blanc-Sablon,mmm113,Atlantic Standard Time - Quebec - Lower North Shore,mmm114,CA,eee111
+fff111,CA,mmm111,+4339-07923,mmm112,America/Toronto,mmm113,Eastern Time - Ontario & Quebec - most locations,mmm114,CA,eee111
+fff111,CA,mmm111,+4901-08816,mmm112,America/Nipigon,mmm113,Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973,mmm114,CA,eee111
+fff111,CA,mmm111,+4823-08915,mmm112,America/Thunder_Bay,mmm113,"Eastern Time - Thunder Bay, Ontario",mmm114,CA,eee111
+fff111,CA,mmm111,+6344-06828,mmm112,America/Iqaluit,mmm113,Eastern Time - east Nunavut - most locations,mmm114,CA,eee111
+fff111,CA,mmm111,+6608-06544,mmm112,America/Pangnirtung,mmm113,"Eastern Time - Pangnirtung, Nunavut",mmm114,CA,eee111
+fff111,CA,mmm111,+744144-0944945,mmm112,America/Resolute,mmm113,"Central Standard Time - Resolute, Nunavut",mmm114,CA,eee111
+fff111,CA,mmm111,+484531-0913718,mmm112,America/Atikokan,mmm113,"Eastern Standard Time - Atikokan, Ontario and Southampton I, Nunavut",mmm114,CA,eee111
+fff111,CA,mmm111,+624900-0920459,mmm112,America/Rankin_Inlet,mmm113,Central Time - central Nunavut,mmm114,CA,eee111
+fff111,CA,mmm111,+4953-09709,mmm112,America/Winnipeg,mmm113,Central Time - Manitoba & west Ontario,mmm114,CA,eee111
+fff111,CA,mmm111,+4843-09434,mmm112,America/Rainy_River,mmm113,"Central Time - Rainy River & Fort Frances, Ontario",mmm114,CA,eee111
+fff111,CA,mmm111,+5024-10439,mmm112,America/Regina,mmm113,Central Standard Time - Saskatchewan - most locations,mmm114,CA,eee111
+fff111,CA,mmm111,+5017-10750,mmm112,America/Swift_Current,mmm113,Central Standard Time - Saskatchewan - midwest,mmm114,CA,eee111
+fff111,CA,mmm111,+5333-11328,mmm112,America/Edmonton,mmm113,"Mountain Time - Alberta, east British Columbia & west Saskatchewan",mmm114,CA,eee111
+fff111,CA,mmm111,+690650-1050310,mmm112,America/Cambridge_Bay,mmm113,Mountain Time - west Nunavut,mmm114,CA,eee111
+fff111,CA,mmm111,+6227-11421,mmm112,America/Yellowknife,mmm113,Mountain Time - central Northwest Territories,mmm114,CA,eee111
+fff111,CA,mmm111,+682059-1334300,mmm112,America/Inuvik,mmm113,Mountain Time - west Northwest Territories,mmm114,CA,eee111
+fff111,CA,mmm111,+4906-11631,mmm112,America/Creston,mmm113,"Mountain Standard Time - Creston, British Columbia",mmm114,CA,eee111
+fff111,CA,mmm111,+5946-12014,mmm112,America/Dawson_Creek,mmm113,"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia",mmm114,CA,eee111
+fff111,CA,mmm111,+4916-12307,mmm112,America/Vancouver,mmm113,Pacific Time - west British Columbia,mmm114,CA,eee111
+fff111,CA,mmm111,+6043-13503,mmm112,America/Whitehorse,mmm113,Pacific Time - south Yukon,mmm114,CA,eee111
+fff111,CA,mmm111,+6404-13925,mmm112,America/Dawson,mmm113,Pacific Time - north Yukon,mmm114,CA,eee111
+fff111,CC,mmm111,-1210+09655,mmm112,Indian/Cocos,mmm113,,mmm114,CC,eee111
+fff111,CD,mmm111,-0418+01518,mmm112,Africa/Kinshasa,mmm113,west Dem. Rep. of Congo,mmm114,CD,eee111
+fff111,CD,mmm111,-1140+02728,mmm112,Africa/Lubumbashi,mmm113,east Dem. Rep. of Congo,mmm114,CD,eee111
+fff111,CF,mmm111,+0422+01835,mmm112,Africa/Bangui,mmm113,,mmm114,CF,eee111
+fff111,CG,mmm111,-0416+01517,mmm112,Africa/Brazzaville,mmm113,,mmm114,CG,eee111
+fff111,CH,mmm111,+4723+00832,mmm112,Europe/Zurich,mmm113,,mmm114,CH,eee111
+fff111,CI,mmm111,+0519-00402,mmm112,Africa/Abidjan,mmm113,,mmm114,CI,eee111
+fff111,CK,mmm111,-2114-15946,mmm112,Pacific/Rarotonga,mmm113,,mmm114,CK,eee111
+fff111,CL,mmm111,-3327-07040,mmm112,America/Santiago,mmm113,most locations,mmm114,CL,eee111
+fff111,CL,mmm111,-2709-10926,mmm112,Pacific/Easter,mmm113,Easter Island & Sala y Gomez,mmm114,CL,eee111
+fff111,CM,mmm111,+0403+00942,mmm112,Africa/Douala,mmm113,,mmm114,CM,eee111
+fff111,CN,mmm111,+3114+12128,mmm112,Asia/Shanghai,mmm113,"east China - Beijing, Guangdong, Shanghai, etc.",mmm114,CN,eee111
+fff111,CN,mmm111,+4545+12641,mmm112,Asia/Harbin,mmm113,"Heilongjiang (except Mohe), Jilin",mmm114,CN,eee111
+fff111,CN,mmm111,+2934+10635,mmm112,Asia/Chongqing,mmm113,"central China - Sichuan, Yunnan, Guangxi, Shaanxi, Guizhou, etc.",mmm114,CN,eee111
+fff111,CN,mmm111,+4348+08735,mmm112,Asia/Urumqi,mmm113,most of Tibet & Xinjiang,mmm114,CN,eee111
+fff111,CN,mmm111,+3929+07559,mmm112,Asia/Kashgar,mmm113,west Tibet & Xinjiang,mmm114,CN,eee111
+fff111,CO,mmm111,+0436-07405,mmm112,America/Bogota,mmm113,,mmm114,CO,eee111
+fff111,CR,mmm111,+0956-08405,mmm112,America/Costa_Rica,mmm113,,mmm114,CR,eee111
+fff111,CU,mmm111,+2308-08222,mmm112,America/Havana,mmm113,,mmm114,CU,eee111
+fff111,CV,mmm111,+1455-02331,mmm112,Atlantic/Cape_Verde,mmm113,,mmm114,CV,eee111
+fff111,CW,mmm111,+1211-06900,mmm112,America/Curacao,mmm113,,mmm114,CW,eee111
+fff111,CX,mmm111,-1025+10543,mmm112,Indian/Christmas,mmm113,,mmm114,CX,eee111
+fff111,CY,mmm111,+3510+03322,mmm112,Asia/Nicosia,mmm113,,mmm114,CY,eee111
+fff111,CZ,mmm111,+5005+01426,mmm112,Europe/Prague,mmm113,,mmm114,CZ,eee111
+fff111,DE,mmm111,+5230+01322,mmm112,Europe/Berlin,mmm113,most locations,mmm114,DE,eee111
+fff111,DE,mmm111,+4742+00841,mmm112,Europe/Busingen,mmm113,Busingen,mmm114,DE,eee111
+fff111,DJ,mmm111,+1136+04309,mmm112,Africa/Djibouti,mmm113,,mmm114,DJ,eee111
+fff111,DK,mmm111,+5540+01235,mmm112,Europe/Copenhagen,mmm113,,mmm114,DK,eee111
+fff111,DM,mmm111,+1518-06124,mmm112,America/Dominica,mmm113,,mmm114,DM,eee111
+fff111,DO,mmm111,+1828-06954,mmm112,America/Santo_Domingo,mmm113,,mmm114,DO,eee111
+fff111,DZ,mmm111,+3647+00303,mmm112,Africa/Algiers,mmm113,,mmm114,DZ,eee111
+fff111,EC,mmm111,-0210-07950,mmm112,America/Guayaquil,mmm113,mainland,mmm114,EC,eee111
+fff111,EC,mmm111,-0054-08936,mmm112,Pacific/Galapagos,mmm113,Galapagos Islands,mmm114,EC,eee111
+fff111,EE,mmm111,+5925+02445,mmm112,Europe/Tallinn,mmm113,,mmm114,EE,eee111
+fff111,EG,mmm111,+3003+03115,mmm112,Africa/Cairo,mmm113,,mmm114,EG,eee111
+fff111,EH,mmm111,+2709-01312,mmm112,Africa/El_Aaiun,mmm113,,mmm114,EH,eee111
+fff111,ER,mmm111,+1520+03853,mmm112,Africa/Asmara,mmm113,,mmm114,ER,eee111
+fff111,ES,mmm111,+4024-00341,mmm112,Europe/Madrid,mmm113,mainland,mmm114,ES,eee111
+fff111,ES,mmm111,+3553-00519,mmm112,Africa/Ceuta,mmm113,Ceuta & Melilla,mmm114,ES,eee111
+fff111,ES,mmm111,+2806-01524,mmm112,Atlantic/Canary,mmm113,Canary Islands,mmm114,ES,eee111
+fff111,ET,mmm111,+0902+03842,mmm112,Africa/Addis_Ababa,mmm113,,mmm114,ET,eee111
+fff111,FI,mmm111,+6010+02458,mmm112,Europe/Helsinki,mmm113,,mmm114,FI,eee111
+fff111,FJ,mmm111,-1808+17825,mmm112,Pacific/Fiji,mmm113,,mmm114,FJ,eee111
+fff111,FK,mmm111,-5142-05751,mmm112,Atlantic/Stanley,mmm113,,mmm114,FK,eee111
+fff111,FM,mmm111,+0725+15147,mmm112,Pacific/Chuuk,mmm113,Chuuk (Truk) and Yap,mmm114,FM,eee111
+fff111,FM,mmm111,+0658+15813,mmm112,Pacific/Pohnpei,mmm113,Pohnpei (Ponape),mmm114,FM,eee111
+fff111,FM,mmm111,+0519+16259,mmm112,Pacific/Kosrae,mmm113,Kosrae,mmm114,FM,eee111
+fff111,FO,mmm111,+6201-00646,mmm112,Atlantic/Faroe,mmm113,,mmm114,FO,eee111
+fff111,FR,mmm111,+4852+00220,mmm112,Europe/Paris,mmm113,,mmm114,FR,eee111
+fff111,GA,mmm111,+0023+00927,mmm112,Africa/Libreville,mmm113,,mmm114,GA,eee111
+fff111,GB,mmm111,+513030-0000731,mmm112,Europe/London,mmm113,,mmm114,GB,eee111
+fff111,GD,mmm111,+1203-06145,mmm112,America/Grenada,mmm113,,mmm114,GD,eee111
+fff111,GE,mmm111,+4143+04449,mmm112,Asia/Tbilisi,mmm113,,mmm114,GE,eee111
+fff111,GF,mmm111,+0456-05220,mmm112,America/Cayenne,mmm113,,mmm114,GF,eee111
+fff111,GG,mmm111,+4927-00232,mmm112,Europe/Guernsey,mmm113,,mmm114,GG,eee111
+fff111,GH,mmm111,+0533-00013,mmm112,Africa/Accra,mmm113,,mmm114,GH,eee111
+fff111,GI,mmm111,+3608-00521,mmm112,Europe/Gibraltar,mmm113,,mmm114,GI,eee111
+fff111,GL,mmm111,+6411-05144,mmm112,America/Godthab,mmm113,most locations,mmm114,GL,eee111
+fff111,GL,mmm111,+7646-01840,mmm112,America/Danmarkshavn,mmm113,"east coast, north of Scoresbysund",mmm114,GL,eee111
+fff111,GL,mmm111,+7029-02158,mmm112,America/Scoresbysund,mmm113,Scoresbysund / Ittoqqortoormiit,mmm114,GL,eee111
+fff111,GL,mmm111,+7634-06847,mmm112,America/Thule,mmm113,Thule / Pituffik,mmm114,GL,eee111
+fff111,GM,mmm111,+1328-01639,mmm112,Africa/Banjul,mmm113,,mmm114,GM,eee111
+fff111,GN,mmm111,+0931-01343,mmm112,Africa/Conakry,mmm113,,mmm114,GN,eee111
+fff111,GP,mmm111,+1614-06132,mmm112,America/Guadeloupe,mmm113,,mmm114,GP,eee111
+fff111,GQ,mmm111,+0345+00847,mmm112,Africa/Malabo,mmm113,,mmm114,GQ,eee111
+fff111,GR,mmm111,+3758+02343,mmm112,Europe/Athens,mmm113,,mmm114,GR,eee111
+fff111,GS,mmm111,-5416-03632,mmm112,Atlantic/South_Georgia,mmm113,,mmm114,GS,eee111
+fff111,GT,mmm111,+1438-09031,mmm112,America/Guatemala,mmm113,,mmm114,GT,eee111
+fff111,GU,mmm111,+1328+14445,mmm112,Pacific/Guam,mmm113,,mmm114,GU,eee111
+fff111,GW,mmm111,+1151-01535,mmm112,Africa/Bissau,mmm113,,mmm114,GW,eee111
+fff111,GY,mmm111,+0648-05810,mmm112,America/Guyana,mmm113,,mmm114,GY,eee111
+fff111,HK,mmm111,+2217+11409,mmm112,Asia/Hong_Kong,mmm113,,mmm114,HK,eee111
+fff111,HN,mmm111,+1406-08713,mmm112,America/Tegucigalpa,mmm113,,mmm114,HN,eee111
+fff111,HR,mmm111,+4548+01558,mmm112,Europe/Zagreb,mmm113,,mmm114,HR,eee111
+fff111,HT,mmm111,+1832-07220,mmm112,America/Port-au-Prince,mmm113,,mmm114,HT,eee111
+fff111,HU,mmm111,+4730+01905,mmm112,Europe/Budapest,mmm113,,mmm114,HU,eee111
+fff111,ID,mmm111,-0610+10648,mmm112,Asia/Jakarta,mmm113,Java & Sumatra,mmm114,ID,eee111
+fff111,ID,mmm111,-0002+10920,mmm112,Asia/Pontianak,mmm113,west & central Borneo,mmm114,ID,eee111
+fff111,ID,mmm111,-0507+11924,mmm112,Asia/Makassar,mmm113,"east & south Borneo, Sulawesi (Celebes), Bali, Nusa Tengarra, west Timor",mmm114,ID,eee111
+fff111,ID,mmm111,-0232+14042,mmm112,Asia/Jayapura,mmm113,west New Guinea (Irian Jaya) & Malukus (Moluccas),mmm114,ID,eee111
+fff111,IE,mmm111,+5320-00615,mmm112,Europe/Dublin,mmm113,,mmm114,IE,eee111
+fff111,IL,mmm111,+314650+0351326,mmm112,Asia/Jerusalem,mmm113,,mmm114,IL,eee111
+fff111,IM,mmm111,+5409-00428,mmm112,Europe/Isle_of_Man,mmm113,,mmm114,IM,eee111
+fff111,IN,mmm111,+2232+08822,mmm112,Asia/Kolkata,mmm113,,mmm114,IN,eee111
+fff111,IO,mmm111,-0720+07225,mmm112,Indian/Chagos,mmm113,,mmm114,IO,eee111
+fff111,IQ,mmm111,+3321+04425,mmm112,Asia/Baghdad,mmm113,,mmm114,IQ,eee111
+fff111,IR,mmm111,+3540+05126,mmm112,Asia/Tehran,mmm113,,mmm114,IR,eee111
+fff111,IS,mmm111,+6409-02151,mmm112,Atlantic/Reykjavik,mmm113,,mmm114,IS,eee111
+fff111,IT,mmm111,+4154+01229,mmm112,Europe/Rome,mmm113,,mmm114,IT,eee111
+fff111,JE,mmm111,+4912-00207,mmm112,Europe/Jersey,mmm113,,mmm114,JE,eee111
+fff111,JM,mmm111,+175805-0764736,mmm112,America/Jamaica,mmm113,,mmm114,JM,eee111
+fff111,JO,mmm111,+3157+03556,mmm112,Asia/Amman,mmm113,,mmm114,JO,eee111
+fff111,JP,mmm111,+353916+1394441,mmm112,Asia/Tokyo,mmm113,,mmm114,JP,eee111
+fff111,KE,mmm111,-0117+03649,mmm112,Africa/Nairobi,mmm113,,mmm114,KE,eee111
+fff111,KG,mmm111,+4254+07436,mmm112,Asia/Bishkek,mmm113,,mmm114,KG,eee111
+fff111,KH,mmm111,+1133+10455,mmm112,Asia/Phnom_Penh,mmm113,,mmm114,KH,eee111
+fff111,KI,mmm111,+0125+17300,mmm112,Pacific/Tarawa,mmm113,Gilbert Islands,mmm114,KI,eee111
+fff111,KI,mmm111,-0308-17105,mmm112,Pacific/Enderbury,mmm113,Phoenix Islands,mmm114,KI,eee111
+fff111,KI,mmm111,+0152-15720,mmm112,Pacific/Kiritimati,mmm113,Line Islands,mmm114,KI,eee111
+fff111,KM,mmm111,-1141+04316,mmm112,Indian/Comoro,mmm113,,mmm114,KM,eee111
+fff111,KN,mmm111,+1718-06243,mmm112,America/St_Kitts,mmm113,,mmm114,KN,eee111
+fff111,KP,mmm111,+3901+12545,mmm112,Asia/Pyongyang,mmm113,,mmm114,KP,eee111
+fff111,KR,mmm111,+3733+12658,mmm112,Asia/Seoul,mmm113,,mmm114,KR,eee111
+fff111,KW,mmm111,+2920+04759,mmm112,Asia/Kuwait,mmm113,,mmm114,KW,eee111
+fff111,KY,mmm111,+1918-08123,mmm112,America/Cayman,mmm113,,mmm114,KY,eee111
+fff111,KZ,mmm111,+4315+07657,mmm112,Asia/Almaty,mmm113,most locations,mmm114,KZ,eee111
+fff111,KZ,mmm111,+4448+06528,mmm112,Asia/Qyzylorda,mmm113,"Qyzylorda (Kyzylorda, Kzyl-Orda)",mmm114,KZ,eee111
+fff111,KZ,mmm111,+5017+05710,mmm112,Asia/Aqtobe,mmm113,Aqtobe (Aktobe),mmm114,KZ,eee111
+fff111,KZ,mmm111,+4431+05016,mmm112,Asia/Aqtau,mmm113,"Atyrau (Atirau, Gur'yev), Mangghystau (Mankistau)",mmm114,KZ,eee111
+fff111,KZ,mmm111,+5113+05121,mmm112,Asia/Oral,mmm113,West Kazakhstan,mmm114,KZ,eee111
+fff111,LA,mmm111,+1758+10236,mmm112,Asia/Vientiane,mmm113,,mmm114,LA,eee111
+fff111,LB,mmm111,+3353+03530,mmm112,Asia/Beirut,mmm113,,mmm114,LB,eee111
+fff111,LC,mmm111,+1401-06100,mmm112,America/St_Lucia,mmm113,,mmm114,LC,eee111
+fff111,LI,mmm111,+4709+00931,mmm112,Europe/Vaduz,mmm113,,mmm114,LI,eee111
+fff111,LK,mmm111,+0656+07951,mmm112,Asia/Colombo,mmm113,,mmm114,LK,eee111
+fff111,LR,mmm111,+0618-01047,mmm112,Africa/Monrovia,mmm113,,mmm114,LR,eee111
+fff111,LS,mmm111,-2928+02730,mmm112,Africa/Maseru,mmm113,,mmm114,LS,eee111
+fff111,LT,mmm111,+5441+02519,mmm112,Europe/Vilnius,mmm113,,mmm114,LT,eee111
+fff111,LU,mmm111,+4936+00609,mmm112,Europe/Luxembourg,mmm113,,mmm114,LU,eee111
+fff111,LV,mmm111,+5657+02406,mmm112,Europe/Riga,mmm113,,mmm114,LV,eee111
+fff111,LY,mmm111,+3254+01311,mmm112,Africa/Tripoli,mmm113,,mmm114,LY,eee111
+fff111,MA,mmm111,+3339-00735,mmm112,Africa/Casablanca,mmm113,,mmm114,MA,eee111
+fff111,MC,mmm111,+4342+00723,mmm112,Europe/Monaco,mmm113,,mmm114,MC,eee111
+fff111,MD,mmm111,+4700+02850,mmm112,Europe/Chisinau,mmm113,,mmm114,MD,eee111
+fff111,ME,mmm111,+4226+01916,mmm112,Europe/Podgorica,mmm113,,mmm114,ME,eee111
+fff111,MF,mmm111,+1804-06305,mmm112,America/Marigot,mmm113,,mmm114,MF,eee111
+fff111,MG,mmm111,-1855+04731,mmm112,Indian/Antananarivo,mmm113,,mmm114,MG,eee111
+fff111,MH,mmm111,+0709+17112,mmm112,Pacific/Majuro,mmm113,most locations,mmm114,MH,eee111
+fff111,MH,mmm111,+0905+16720,mmm112,Pacific/Kwajalein,mmm113,Kwajalein,mmm114,MH,eee111
+fff111,MK,mmm111,+4159+02126,mmm112,Europe/Skopje,mmm113,,mmm114,MK,eee111
+fff111,ML,mmm111,+1239-00800,mmm112,Africa/Bamako,mmm113,,mmm114,ML,eee111
+fff111,MM,mmm111,+1647+09610,mmm112,Asia/Rangoon,mmm113,,mmm114,MM,eee111
+fff111,MN,mmm111,+4755+10653,mmm112,Asia/Ulaanbaatar,mmm113,most locations,mmm114,MN,eee111
+fff111,MN,mmm111,+4801+09139,mmm112,Asia/Hovd,mmm113,"Bayan-Olgiy, Govi-Altai, Hovd, Uvs, Zavkhan",mmm114,MN,eee111
+fff111,MN,mmm111,+4804+11430,mmm112,Asia/Choibalsan,mmm113,"Dornod, Sukhbaatar",mmm114,MN,eee111
+fff111,MO,mmm111,+2214+11335,mmm112,Asia/Macau,mmm113,,mmm114,MO,eee111
+fff111,MP,mmm111,+1512+14545,mmm112,Pacific/Saipan,mmm113,,mmm114,MP,eee111
+fff111,MQ,mmm111,+1436-06105,mmm112,America/Martinique,mmm113,,mmm114,MQ,eee111
+fff111,MR,mmm111,+1806-01557,mmm112,Africa/Nouakchott,mmm113,,mmm114,MR,eee111
+fff111,MS,mmm111,+1643-06213,mmm112,America/Montserrat,mmm113,,mmm114,MS,eee111
+fff111,MT,mmm111,+3554+01431,mmm112,Europe/Malta,mmm113,,mmm114,MT,eee111
+fff111,MU,mmm111,-2010+05730,mmm112,Indian/Mauritius,mmm113,,mmm114,MU,eee111
+fff111,MV,mmm111,+0410+07330,mmm112,Indian/Maldives,mmm113,,mmm114,MV,eee111
+fff111,MW,mmm111,-1547+03500,mmm112,Africa/Blantyre,mmm113,,mmm114,MW,eee111
+fff111,MX,mmm111,+1924-09909,mmm112,America/Mexico_City,mmm113,Central Time - most locations,mmm114,MX,eee111
+fff111,MX,mmm111,+2105-08646,mmm112,America/Cancun,mmm113,Central Time - Quintana Roo,mmm114,MX,eee111
+fff111,MX,mmm111,+2058-08937,mmm112,America/Merida,mmm113,"Central Time - Campeche, Yucatan",mmm114,MX,eee111
+fff111,MX,mmm111,+2540-10019,mmm112,America/Monterrey,mmm113,"Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from US border",mmm114,MX,eee111
+fff111,MX,mmm111,+2550-09730,mmm112,America/Matamoros,mmm113,"US Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas near US border",mmm114,MX,eee111
+fff111,MX,mmm111,+2313-10625,mmm112,America/Mazatlan,mmm113,"Mountain Time - S Baja, Nayarit, Sinaloa",mmm114,MX,eee111
+fff111,MX,mmm111,+2838-10605,mmm112,America/Chihuahua,mmm113,Mexican Mountain Time - Chihuahua away from US border,mmm114,MX,eee111
+fff111,MX,mmm111,+2934-10425,mmm112,America/Ojinaga,mmm113,US Mountain Time - Chihuahua near US border,mmm114,MX,eee111
+fff111,MX,mmm111,+2904-11058,mmm112,America/Hermosillo,mmm113,Mountain Standard Time - Sonora,mmm114,MX,eee111
+fff111,MX,mmm111,+3232-11701,mmm112,America/Tijuana,mmm113,US Pacific Time - Baja California near US border,mmm114,MX,eee111
+fff111,MX,mmm111,+3018-11452,mmm112,America/Santa_Isabel,mmm113,Mexican Pacific Time - Baja California away from US border,mmm114,MX,eee111
+fff111,MX,mmm111,+2048-10515,mmm112,America/Bahia_Banderas,mmm113,Mexican Central Time - Bahia de Banderas,mmm114,MX,eee111
+fff111,MY,mmm111,+0310+10142,mmm112,Asia/Kuala_Lumpur,mmm113,peninsular Malaysia,mmm114,MY,eee111
+fff111,MY,mmm111,+0133+11020,mmm112,Asia/Kuching,mmm113,Sabah & Sarawak,mmm114,MY,eee111
+fff111,MZ,mmm111,-2558+03235,mmm112,Africa/Maputo,mmm113,,mmm114,MZ,eee111
+fff111,NA,mmm111,-2234+01706,mmm112,Africa/Windhoek,mmm113,,mmm114,NA,eee111
+fff111,NC,mmm111,-2216+16627,mmm112,Pacific/Noumea,mmm113,,mmm114,NC,eee111
+fff111,NE,mmm111,+1331+00207,mmm112,Africa/Niamey,mmm113,,mmm114,NE,eee111
+fff111,NF,mmm111,-2903+16758,mmm112,Pacific/Norfolk,mmm113,,mmm114,NF,eee111
+fff111,NG,mmm111,+0627+00324,mmm112,Africa/Lagos,mmm113,,mmm114,NG,eee111
+fff111,NI,mmm111,+1209-08617,mmm112,America/Managua,mmm113,,mmm114,NI,eee111
+fff111,NL,mmm111,+5222+00454,mmm112,Europe/Amsterdam,mmm113,,mmm114,NL,eee111
+fff111,NO,mmm111,+5955+01045,mmm112,Europe/Oslo,mmm113,,mmm114,NO,eee111
+fff111,NP,mmm111,+2743+08519,mmm112,Asia/Kathmandu,mmm113,,mmm114,NP,eee111
+fff111,NR,mmm111,-0031+16655,mmm112,Pacific/Nauru,mmm113,,mmm114,NR,eee111
+fff111,NU,mmm111,-1901-16955,mmm112,Pacific/Niue,mmm113,,mmm114,NU,eee111
+fff111,NZ,mmm111,-3652+17446,mmm112,Pacific/Auckland,mmm113,most locations,mmm114,NZ,eee111
+fff111,NZ,mmm111,-4357-17633,mmm112,Pacific/Chatham,mmm113,Chatham Islands,mmm114,NZ,eee111
+fff111,OM,mmm111,+2336+05835,mmm112,Asia/Muscat,mmm113,,mmm114,OM,eee111
+fff111,PA,mmm111,+0858-07932,mmm112,America/Panama,mmm113,,mmm114,PA,eee111
+fff111,PE,mmm111,-1203-07703,mmm112,America/Lima,mmm113,,mmm114,PE,eee111
+fff111,PF,mmm111,-1732-14934,mmm112,Pacific/Tahiti,mmm113,Society Islands,mmm114,PF,eee111
+fff111,PF,mmm111,-0900-13930,mmm112,Pacific/Marquesas,mmm113,Marquesas Islands,mmm114,PF,eee111
+fff111,PF,mmm111,-2308-13457,mmm112,Pacific/Gambier,mmm113,Gambier Islands,mmm114,PF,eee111
+fff111,PG,mmm111,-0930+14710,mmm112,Pacific/Port_Moresby,mmm113,,mmm114,PG,eee111
+fff111,PH,mmm111,+1435+12100,mmm112,Asia/Manila,mmm113,,mmm114,PH,eee111
+fff111,PK,mmm111,+2452+06703,mmm112,Asia/Karachi,mmm113,,mmm114,PK,eee111
+fff111,PL,mmm111,+5215+02100,mmm112,Europe/Warsaw,mmm113,,mmm114,PL,eee111
+fff111,PM,mmm111,+4703-05620,mmm112,America/Miquelon,mmm113,,mmm114,PM,eee111
+fff111,PN,mmm111,-2504-13005,mmm112,Pacific/Pitcairn,mmm113,,mmm114,PN,eee111
+fff111,PR,mmm111,+182806-0660622,mmm112,America/Puerto_Rico,mmm113,,mmm114,PR,eee111
+fff111,PS,mmm111,+3130+03428,mmm112,Asia/Gaza,mmm113,Gaza Strip,mmm114,PS,eee111
+fff111,PS,mmm111,+313200+0350542,mmm112,Asia/Hebron,mmm113,West Bank,mmm114,PS,eee111
+fff111,PT,mmm111,+3843-00908,mmm112,Europe/Lisbon,mmm113,mainland,mmm114,PT,eee111
+fff111,PT,mmm111,+3238-01654,mmm112,Atlantic/Madeira,mmm113,Madeira Islands,mmm114,PT,eee111
+fff111,PT,mmm111,+3744-02540,mmm112,Atlantic/Azores,mmm113,Azores,mmm114,PT,eee111
+fff111,PW,mmm111,+0720+13429,mmm112,Pacific/Palau,mmm113,,mmm114,PW,eee111
+fff111,PY,mmm111,-2516-05740,mmm112,America/Asuncion,mmm113,,mmm114,PY,eee111
+fff111,QA,mmm111,+2517+05132,mmm112,Asia/Qatar,mmm113,,mmm114,QA,eee111
+fff111,RE,mmm111,-2052+05528,mmm112,Indian/Reunion,mmm113,,mmm114,RE,eee111
+fff111,RO,mmm111,+4426+02606,mmm112,Europe/Bucharest,mmm113,,mmm114,RO,eee111
+fff111,RS,mmm111,+4450+02030,mmm112,Europe/Belgrade,mmm113,,mmm114,RS,eee111
+fff111,RU,mmm111,+5443+02030,mmm112,Europe/Kaliningrad,mmm113,Moscow-01 - Kaliningrad,mmm114,RU,eee111
+fff111,RU,mmm111,+5545+03735,mmm112,Europe/Moscow,mmm113,Moscow+00 - west Russia,mmm114,RU,eee111
+fff111,RU,mmm111,+4844+04425,mmm112,Europe/Volgograd,mmm113,Moscow+00 - Caspian Sea,mmm114,RU,eee111
+fff111,RU,mmm111,+5312+05009,mmm112,Europe/Samara,mmm113,"Moscow+00 - Samara, Udmurtia",mmm114,RU,eee111
+fff111,RU,mmm111,+4457+03406,mmm112,Europe/Simferopol,mmm113,Moscow+00 - Crimea,mmm114,RU,eee111
+fff111,RU,mmm111,+5651+06036,mmm112,Asia/Yekaterinburg,mmm113,Moscow+02 - Urals,mmm114,RU,eee111
+fff111,RU,mmm111,+5500+07324,mmm112,Asia/Omsk,mmm113,Moscow+03 - west Siberia,mmm114,RU,eee111
+fff111,RU,mmm111,+5502+08255,mmm112,Asia/Novosibirsk,mmm113,Moscow+03 - Novosibirsk,mmm114,RU,eee111
+fff111,RU,mmm111,+5345+08707,mmm112,Asia/Novokuznetsk,mmm113,Moscow+03 - Novokuznetsk,mmm114,RU,eee111
+fff111,RU,mmm111,+5601+09250,mmm112,Asia/Krasnoyarsk,mmm113,Moscow+04 - Yenisei River,mmm114,RU,eee111
+fff111,RU,mmm111,+5216+10420,mmm112,Asia/Irkutsk,mmm113,Moscow+05 - Lake Baikal,mmm114,RU,eee111
+fff111,RU,mmm111,+6200+12940,mmm112,Asia/Yakutsk,mmm113,Moscow+06 - Lena River,mmm114,RU,eee111
+fff111,RU,mmm111,+623923+1353314,mmm112,Asia/Khandyga,mmm113,"Moscow+06 - Tomponsky, Ust-Maysky",mmm114,RU,eee111
+fff111,RU,mmm111,+4310+13156,mmm112,Asia/Vladivostok,mmm113,Moscow+07 - Amur River,mmm114,RU,eee111
+fff111,RU,mmm111,+4658+14242,mmm112,Asia/Sakhalin,mmm113,Moscow+07 - Sakhalin Island,mmm114,RU,eee111
+fff111,RU,mmm111,+643337+1431336,mmm112,Asia/Ust-Nera,mmm113,Moscow+07 - Oymyakonsky,mmm114,RU,eee111
+fff111,RU,mmm111,+5934+15048,mmm112,Asia/Magadan,mmm113,Moscow+08 - Magadan,mmm114,RU,eee111
+fff111,RU,mmm111,+5301+15839,mmm112,Asia/Kamchatka,mmm113,Moscow+08 - Kamchatka,mmm114,RU,eee111
+fff111,RU,mmm111,+6445+17729,mmm112,Asia/Anadyr,mmm113,Moscow+08 - Bering Sea,mmm114,RU,eee111
+fff111,RW,mmm111,-0157+03004,mmm112,Africa/Kigali,mmm113,,mmm114,RW,eee111
+fff111,SA,mmm111,+2438+04643,mmm112,Asia/Riyadh,mmm113,,mmm114,SA,eee111
+fff111,SB,mmm111,-0932+16012,mmm112,Pacific/Guadalcanal,mmm113,,mmm114,SB,eee111
+fff111,SC,mmm111,-0440+05528,mmm112,Indian/Mahe,mmm113,,mmm114,SC,eee111
+fff111,SD,mmm111,+1536+03232,mmm112,Africa/Khartoum,mmm113,,mmm114,SD,eee111
+fff111,SE,mmm111,+5920+01803,mmm112,Europe/Stockholm,mmm113,,mmm114,SE,eee111
+fff111,SG,mmm111,+0117+10351,mmm112,Asia/Singapore,mmm113,,mmm114,SG,eee111
+fff111,SH,mmm111,-1555-00542,mmm112,Atlantic/St_Helena,mmm113,,mmm114,SH,eee111
+fff111,SI,mmm111,+4603+01431,mmm112,Europe/Ljubljana,mmm113,,mmm114,SI,eee111
+fff111,SJ,mmm111,+7800+01600,mmm112,Arctic/Longyearbyen,mmm113,,mmm114,SJ,eee111
+fff111,SK,mmm111,+4809+01707,mmm112,Europe/Bratislava,mmm113,,mmm114,SK,eee111
+fff111,SL,mmm111,+0830-01315,mmm112,Africa/Freetown,mmm113,,mmm114,SL,eee111
+fff111,SM,mmm111,+4355+01228,mmm112,Europe/San_Marino,mmm113,,mmm114,SM,eee111
+fff111,SN,mmm111,+1440-01726,mmm112,Africa/Dakar,mmm113,,mmm114,SN,eee111
+fff111,SO,mmm111,+0204+04522,mmm112,Africa/Mogadishu,mmm113,,mmm114,SO,eee111
+fff111,SR,mmm111,+0550-05510,mmm112,America/Paramaribo,mmm113,,mmm114,SR,eee111
+fff111,SS,mmm111,+0451+03136,mmm112,Africa/Juba,mmm113,,mmm114,SS,eee111
+fff111,ST,mmm111,+0020+00644,mmm112,Africa/Sao_Tome,mmm113,,mmm114,ST,eee111
+fff111,SV,mmm111,+1342-08912,mmm112,America/El_Salvador,mmm113,,mmm114,SV,eee111
+fff111,SX,mmm111,+180305-0630250,mmm112,America/Lower_Princes,mmm113,,mmm114,SX,eee111
+fff111,SY,mmm111,+3330+03618,mmm112,Asia/Damascus,mmm113,,mmm114,SY,eee111
+fff111,SZ,mmm111,-2618+03106,mmm112,Africa/Mbabane,mmm113,,mmm114,SZ,eee111
+fff111,TC,mmm111,+2128-07108,mmm112,America/Grand_Turk,mmm113,,mmm114,TC,eee111
+fff111,TD,mmm111,+1207+01503,mmm112,Africa/Ndjamena,mmm113,,mmm114,TD,eee111
+fff111,TF,mmm111,-492110+0701303,mmm112,Indian/Kerguelen,mmm113,,mmm114,TF,eee111
+fff111,TG,mmm111,+0608+00113,mmm112,Africa/Lome,mmm113,,mmm114,TG,eee111
+fff111,TH,mmm111,+1345+10031,mmm112,Asia/Bangkok,mmm113,,mmm114,TH,eee111
+fff111,TJ,mmm111,+3835+06848,mmm112,Asia/Dushanbe,mmm113,,mmm114,TJ,eee111
+fff111,TK,mmm111,-0922-17114,mmm112,Pacific/Fakaofo,mmm113,,mmm114,TK,eee111
+fff111,TL,mmm111,-0833+12535,mmm112,Asia/Dili,mmm113,,mmm114,TL,eee111
+fff111,TM,mmm111,+3757+05823,mmm112,Asia/Ashgabat,mmm113,,mmm114,TM,eee111
+fff111,TN,mmm111,+3648+01011,mmm112,Africa/Tunis,mmm113,,mmm114,TN,eee111
+fff111,TO,mmm111,-2110-17510,mmm112,Pacific/Tongatapu,mmm113,,mmm114,TO,eee111
+fff111,TR,mmm111,+4101+02858,mmm112,Europe/Istanbul,mmm113,,mmm114,TR,eee111
+fff111,TT,mmm111,+1039-06131,mmm112,America/Port_of_Spain,mmm113,,mmm114,TT,eee111
+fff111,TV,mmm111,-0831+17913,mmm112,Pacific/Funafuti,mmm113,,mmm114,TV,eee111
+fff111,TW,mmm111,+2503+12130,mmm112,Asia/Taipei,mmm113,,mmm114,TW,eee111
+fff111,TZ,mmm111,-0648+03917,mmm112,Africa/Dar_es_Salaam,mmm113,,mmm114,TZ,eee111
+fff111,UA,mmm111,+5026+03031,mmm112,Europe/Kiev,mmm113,most locations,mmm114,UA,eee111
+fff111,UA,mmm111,+4837+02218,mmm112,Europe/Uzhgorod,mmm113,Ruthenia,mmm114,UA,eee111
+fff111,UA,mmm111,+4750+03510,mmm112,Europe/Zaporozhye,mmm113,"Zaporozh'ye, E Lugansk / Zaporizhia, E Luhansk",mmm114,UA,eee111
+fff111,UG,mmm111,+0019+03225,mmm112,Africa/Kampala,mmm113,,mmm114,UG,eee111
+fff111,UM,mmm111,+1645-16931,mmm112,Pacific/Johnston,mmm113,Johnston Atoll,mmm114,UM,eee111
+fff111,UM,mmm111,+2813-17722,mmm112,Pacific/Midway,mmm113,Midway Islands,mmm114,UM,eee111
+fff111,UM,mmm111,+1917+16637,mmm112,Pacific/Wake,mmm113,Wake Island,mmm114,UM,eee111
+fff111,US,mmm111,+404251-0740023,mmm112,America/New_York,mmm113,Eastern Time,mmm114,US,eee111
+fff111,US,mmm111,+421953-0830245,mmm112,America/Detroit,mmm113,Eastern Time - Michigan - most locations,mmm114,US,eee111
+fff111,US,mmm111,+381515-0854534,mmm112,America/Kentucky/Louisville,mmm113,Eastern Time - Kentucky - Louisville area,mmm114,US,eee111
+fff111,US,mmm111,+364947-0845057,mmm112,America/Kentucky/Monticello,mmm113,Eastern Time - Kentucky - Wayne County,mmm114,US,eee111
+fff111,US,mmm111,+394606-0860929,mmm112,America/Indiana/Indianapolis,mmm113,Eastern Time - Indiana - most locations,mmm114,US,eee111
+fff111,US,mmm111,+384038-0873143,mmm112,America/Indiana/Vincennes,mmm113,"Eastern Time - Indiana - Daviess, Dubois, Knox & Martin Counties",mmm114,US,eee111
+fff111,US,mmm111,+410305-0863611,mmm112,America/Indiana/Winamac,mmm113,Eastern Time - Indiana - Pulaski County,mmm114,US,eee111
+fff111,US,mmm111,+382232-0862041,mmm112,America/Indiana/Marengo,mmm113,Eastern Time - Indiana - Crawford County,mmm114,US,eee111
+fff111,US,mmm111,+382931-0871643,mmm112,America/Indiana/Petersburg,mmm113,Eastern Time - Indiana - Pike County,mmm114,US,eee111
+fff111,US,mmm111,+384452-0850402,mmm112,America/Indiana/Vevay,mmm113,Eastern Time - Indiana - Switzerland County,mmm114,US,eee111
+fff111,US,mmm111,+415100-0873900,mmm112,America/Chicago,mmm113,Central Time,mmm114,US,eee111
+fff111,US,mmm111,+375711-0864541,mmm112,America/Indiana/Tell_City,mmm113,Central Time - Indiana - Perry County,mmm114,US,eee111
+fff111,US,mmm111,+411745-0863730,mmm112,America/Indiana/Knox,mmm113,Central Time - Indiana - Starke County,mmm114,US,eee111
+fff111,US,mmm111,+450628-0873651,mmm112,America/Menominee,mmm113,"Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties",mmm114,US,eee111
+fff111,US,mmm111,+470659-1011757,mmm112,America/North_Dakota/Center,mmm113,Central Time - North Dakota - Oliver County,mmm114,US,eee111
+fff111,US,mmm111,+465042-1012439,mmm112,America/North_Dakota/New_Salem,mmm113,Central Time - North Dakota - Morton County (except Mandan area),mmm114,US,eee111
+fff111,US,mmm111,+471551-1014640,mmm112,America/North_Dakota/Beulah,mmm113,Central Time - North Dakota - Mercer County,mmm114,US,eee111
+fff111,US,mmm111,+394421-1045903,mmm112,America/Denver,mmm113,Mountain Time,mmm114,US,eee111
+fff111,US,mmm111,+433649-1161209,mmm112,America/Boise,mmm113,Mountain Time - south Idaho & east Oregon,mmm114,US,eee111
+fff111,US,mmm111,+332654-1120424,mmm112,America/Phoenix,mmm113,Mountain Standard Time - Arizona (except Navajo),mmm114,US,eee111
+fff111,US,mmm111,+340308-1181434,mmm112,America/Los_Angeles,mmm113,Pacific Time,mmm114,US,eee111
+fff111,US,mmm111,+611305-1495401,mmm112,America/Anchorage,mmm113,Alaska Time,mmm114,US,eee111
+fff111,US,mmm111,+581807-1342511,mmm112,America/Juneau,mmm113,Alaska Time - Alaska panhandle,mmm114,US,eee111
+fff111,US,mmm111,+571035-1351807,mmm112,America/Sitka,mmm113,Alaska Time - southeast Alaska panhandle,mmm114,US,eee111
+fff111,US,mmm111,+593249-1394338,mmm112,America/Yakutat,mmm113,Alaska Time - Alaska panhandle neck,mmm114,US,eee111
+fff111,US,mmm111,+643004-1652423,mmm112,America/Nome,mmm113,Alaska Time - west Alaska,mmm114,US,eee111
+fff111,US,mmm111,+515248-1763929,mmm112,America/Adak,mmm113,Aleutian Islands,mmm114,US,eee111
+fff111,US,mmm111,+550737-1313435,mmm112,America/Metlakatla,mmm113,Metlakatla Time - Annette Island,mmm114,US,eee111
+fff111,US,mmm111,+211825-1575130,mmm112,Pacific/Honolulu,mmm113,Hawaii,mmm114,US,eee111
+fff111,UY,mmm111,-3453-05611,mmm112,America/Montevideo,mmm113,,mmm114,UY,eee111
+fff111,UZ,mmm111,+3940+06648,mmm112,Asia/Samarkand,mmm113,west Uzbekistan,mmm114,UZ,eee111
+fff111,UZ,mmm111,+4120+06918,mmm112,Asia/Tashkent,mmm113,east Uzbekistan,mmm114,UZ,eee111
+fff111,VA,mmm111,+415408+0122711,mmm112,Europe/Vatican,mmm113,,mmm114,VA,eee111
+fff111,VC,mmm111,+1309-06114,mmm112,America/St_Vincent,mmm113,,mmm114,VC,eee111
+fff111,VE,mmm111,+1030-06656,mmm112,America/Caracas,mmm113,,mmm114,VE,eee111
+fff111,VG,mmm111,+1827-06437,mmm112,America/Tortola,mmm113,,mmm114,VG,eee111
+fff111,VI,mmm111,+1821-06456,mmm112,America/St_Thomas,mmm113,,mmm114,VI,eee111
+fff111,VN,mmm111,+1045+10640,mmm112,Asia/Ho_Chi_Minh,mmm113,,mmm114,VN,eee111
+fff111,VU,mmm111,-1740+16825,mmm112,Pacific/Efate,mmm113,,mmm114,VU,eee111
+fff111,WF,mmm111,-1318-17610,mmm112,Pacific/Wallis,mmm113,,mmm114,WF,eee111
+fff111,WS,mmm111,-1350-17144,mmm112,Pacific/Apia,mmm113,,mmm114,WS,eee111
+fff111,YE,mmm111,+1245+04512,mmm112,Asia/Aden,mmm113,,mmm114,YE,eee111
+fff111,YT,mmm111,-1247+04514,mmm112,Indian/Mayotte,mmm113,,mmm114,YT,eee111
+fff111,ZA,mmm111,-2615+02800,mmm112,Africa/Johannesburg,mmm113,,mmm114,ZA,eee111
+fff111,ZM,mmm111,-1525+02817,mmm112,Africa/Lusaka,mmm113,,mmm114,ZM,eee111
+fff111,ZW,mmm111,-1750+03103,mmm112,Africa/Harare,mmm113,,mmm114,ZW,eee111

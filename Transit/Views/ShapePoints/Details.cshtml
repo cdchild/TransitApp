@@ -1,0 +1,58 @@
+﻿@model Transit.Models.ShapePoint
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ShapePoint</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.shapeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.shapeId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.latitude)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.latitude)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.longitude)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.longitude)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sequence)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sequence)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.distanceTraveled)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.distanceTraveled)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

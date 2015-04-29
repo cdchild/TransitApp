@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Transit.Models.Service>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.mondays)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tuesdays)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.wednesdays)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.thursdays)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fridays)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.saturdays)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sunday)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.start)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.end)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.mondays)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tuesdays)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.wednesdays)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.thursdays)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fridays)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.saturdays)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sunday)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.start)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.end)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

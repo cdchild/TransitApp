@@ -1,0 +1,90 @@
+﻿@model Transit.Models.Service
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Service</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.mondays)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mondays)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tuesdays)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tuesdays)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.wednesdays)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.wednesdays)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.thursdays)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.thursdays)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fridays)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fridays)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.saturdays)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.saturdays)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sunday)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sunday)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.start)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.start)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.end)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.end)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

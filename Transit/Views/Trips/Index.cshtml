@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Transit.Models.Trip>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.accessibleCode.label)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.bikeCode.label)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.route.label)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.service.id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.label)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.direction)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.blockId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.shapeId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.accessibleCode.label)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.bikeCode.label)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.route.label)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.service.id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.label)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.direction)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.blockId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.shapeId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

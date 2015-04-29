@@ -1,0 +1,2 @@
+INSERT INTO [Agencies] ( phone, url, name, timezone, language, timeZoneObjId ) VALUES
+ ('888-RIDE-UTA', 'http://www.rideuta.com', 'Utah Transit Authority', 'America/Denver', 'en', (select top 1 id from TimeZones t where t.label like '%Denver%'))

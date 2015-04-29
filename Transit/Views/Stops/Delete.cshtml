@@ -1,0 +1,112 @@
+﻿@model Transit.Models.Stop
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Stop</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.accessibleCode.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.accessibleCode.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.code)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.latitude)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.latitude)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.longitude)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.longitude)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.zoneId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.zoneId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stopUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stopUrl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isConsideredStation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isConsideredStation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.parentStation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.parentStation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.timezone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.timezone)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

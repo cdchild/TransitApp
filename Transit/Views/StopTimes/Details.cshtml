@@ -1,0 +1,82 @@
+﻿@model Transit.Models.StopTime
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>StopTime</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.dropoffType.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dropoffType.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.pickupType.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pickupType.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stop.code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stop.code)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.trip.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.trip.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.arrival)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.arrival)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.departure)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.departure)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.shapeDistanceTraveled)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.shapeDistanceTraveled)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

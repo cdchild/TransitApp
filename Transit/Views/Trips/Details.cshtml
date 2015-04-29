@@ -1,0 +1,82 @@
+﻿@model Transit.Models.Trip
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Trip</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.accessibleCode.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.accessibleCode.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.bikeCode.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.bikeCode.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.route.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.route.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.service.id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.service.id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.direction)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.direction)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.blockId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.blockId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.shapeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.shapeId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,82 @@
+﻿@model Transit.ViewModels.UserViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+    <h4>User</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ConfirmPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ConfirmPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+    </dl>
+</div>
+    <h4>User Roles</h4>
+    <hr />
+    <div class="col col-lg-offset-1">
+        <table class="table table-responsive table-condensed">
+            <tr>
+                <th>
+                    @Html.LabelFor(model => model.Roles.FirstOrDefault().RoleId, new { @class = "control-label col-md-2" })
+                </th>
+            </tr>
+        @if (Model.Roles.Count > 0)
+        {
+            foreach (var item in Model.Roles)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(entry => item.RoleId)
+                    </td>
+                </tr>
+            }
+            
+        }
+
+        </table>
+    </div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

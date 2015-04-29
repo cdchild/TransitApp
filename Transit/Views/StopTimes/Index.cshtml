@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Transit.Models.StopTime>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.dropoffType.label)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.pickupType.label)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.stop.code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.trip.label)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.arrival)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.departure)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.label)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.shapeDistanceTraveled)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.dropoffType.label)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.pickupType.label)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.stop.code)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.trip.label)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.arrival)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.departure)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.label)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.shapeDistanceTraveled)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>
