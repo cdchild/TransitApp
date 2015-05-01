@@ -57,6 +57,6 @@ namespace Transit.Models
         public string fareUrl { get; set; }
 
 		[DisplayName("Routes")]
-		public IEnumerable<Route> routes { get; set; }
+		public virtual ICollection<Route> routes { get; set; }
     }
 }

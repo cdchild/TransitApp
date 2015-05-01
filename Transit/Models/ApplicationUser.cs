@@ -1,7 +1,8 @@
-﻿using System.Security.Claims;
-using System.Threading.Tasks;
-using Microsoft.AspNet.Identity;
+﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
+using System.Collections.Generic;
+using System.Security.Claims;
+using System.Threading.Tasks;
 using Transit.ViewModels;
 
 namespace Transit.Models
@@ -16,6 +17,8 @@ namespace Transit.Models
             // Add custom user claims here
             return userIdentity;
         }
+
+		public virtual ICollection<UserSetSchedule> schedules { get; set; }
 
 		public UserViewModel ToUserViewModel()
 		{

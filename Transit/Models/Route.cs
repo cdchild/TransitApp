@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using System.Collections.Generic;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -57,5 +58,7 @@ namespace Transit.Models
         [ScaffoldColumn(false)]
         public Color textColorObj
 		{ get { return new Color(textColor); } }
+
+		public virtual ICollection<UserSetRouteLeg> userSetRouteLegs { get; set; }
     }
 }

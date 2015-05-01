@@ -49,7 +49,7 @@ namespace Transit.Models
         public int end { get; set; }
 
 		[DisplayName("Dates")]
-		public IEnumerable<ServiceDate> serviceDates { get; set; }
+		public virtual ICollection<ServiceDate> serviceDates { get; set; }
     }
 
 	public struct Services

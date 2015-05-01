@@ -10,7 +10,7 @@ namespace Transit.ViewModels
     public class AddUserViewModel
     {
         [Key]
-        public virtual int Id { get; set; }
+        public  int Id { get; set; }
 
         [Required]
         [Display(Name = "Username")]
@@ -29,11 +29,11 @@ namespace Transit.ViewModels
 
         [DisplayName("Phone")]
 		[Phone]
-        public virtual string PhoneNumber { get; set; }
+        public  string PhoneNumber { get; set; }
 
         [DisplayName("Email Address")]
         [RegularExpression(@"[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,5}", ErrorMessage = "Valid email address format required.")]
-        public virtual string Email { get; set; }
+        public  string Email { get; set; }
     }
 
     public class UserViewModel
@@ -45,7 +45,7 @@ namespace Transit.ViewModels
         [Key]
         //88f8abed-d918-4c6c-b3a4-422bf8e99d9a
         [RegularExpression(@"[a-f\d]{8}-([a-f\d]{4}-){3}[a-f\d]{12}")]
-        public virtual string Id { get; set; }
+        public  string Id { get; set; }
 
 
 		[Required]
@@ -65,11 +65,11 @@ namespace Transit.ViewModels
 
 		[DisplayName("Phone")]
 		[Phone]
-		public virtual string PhoneNumber { get; set; }
+		public  string PhoneNumber { get; set; }
 
 		[DisplayName("Email Address")]
 		[RegularExpression(@"[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,5}", ErrorMessage = "Valid email address format required.")]
-		public virtual string Email { get; set; }
+		public  string Email { get; set; }
 
         public virtual ICollection<IdentityUserRole> Roles { get; set; }
     }

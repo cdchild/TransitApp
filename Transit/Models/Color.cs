@@ -33,11 +33,11 @@ namespace Transit.Models
 			G = Convert.ToByte(hexColor.Substring(2, 2), 16);
 			B = Convert.ToByte(hexColor.Substring(4, 2), 16);
 		}
-        public virtual byte A { get; set; }
-        public virtual byte R { get; set; }
-        public virtual byte G { get; set; }
-        public virtual byte B { get; set; }
-        public virtual double Alpha(int digits = 2)
+        public  byte A { get; set; }
+        public  byte R { get; set; }
+        public  byte G { get; set; }
+        public  byte B { get; set; }
+        public  double Alpha(int digits = 2)
         {
             return Math.Round(
                 ((double)A / 255),

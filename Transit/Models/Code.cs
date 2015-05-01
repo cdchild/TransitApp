@@ -8,13 +8,13 @@ namespace Transit.Models
     {
 
         [Key]
-		public virtual byte id { get; set; }
+		public  byte id { get; set; }
 
         [Required]
         [DisplayName("Label")]
-		public virtual string label { get; set; }
+		public  string label { get; set; }
 
         [DisplayName("Description")]
-		public virtual string description { get; set; }
+		public  string description { get; set; }
     }
 }

@@ -61,6 +61,8 @@ namespace Transit.Models
         public AccessibleCode accessibleCode { get; set; }
 
 		[DisplayName("Times")]
-		public IEnumerable<StopTime> stopTimes { get; set; }
+		public virtual ICollection<StopTime> stopTimes { get; set; }
+
+		public virtual ICollection<UserSetLegStop> userSetLegStops { get; set; }
     }
 }

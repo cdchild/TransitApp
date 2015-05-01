@@ -42,7 +42,7 @@ namespace Transit.Models
 
 		[DisplayName("Route Points")]
 		[ScaffoldColumn(false)]
-		public IEnumerable<ShapePoint> shapePoints { get; set; }
+		public virtual ICollection<ShapePoint> shapePoints { get; set; }
 
         [ForeignKey("accessibleCode")]
         [DisplayName("Accessibity")]
@@ -59,9 +59,9 @@ namespace Transit.Models
         public BikeCode bikeCode { get; set; }
 
 		[DisplayName("Stops")]
-		public IEnumerable<StopTime> stopTimes { get; set; }
+		public virtual ICollection<StopTime> stopTimes { get; set; }
 
 		[DisplayName("Frequencies")]
-		public IEnumerable<TripFrequency> frequencies { get; set; }
+		public virtual ICollection<TripFrequency> frequencies { get; set; }
     }
 }

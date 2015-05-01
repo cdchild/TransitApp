@@ -167,6 +167,7 @@
     <Compile Include="Controllers\FeedsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LanguagesController.cs" />
+    <Compile Include="Controllers\MySchedulesController.cs" />
     <Compile Include="Controllers\RoutesController.cs" />
     <Compile Include="Controllers\RouteTypesController.cs" />
     <Compile Include="Controllers\ServiceDatesController.cs" />
@@ -184,7 +185,9 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccessibleCode.cs" />
-    <Compile Include="Models\UserRouteSchedule.cs" />
+    <Compile Include="Models\UserSetLegStop.cs" />
+    <Compile Include="Models\UserSetRouteLeg.cs" />
+    <Compile Include="Models\UserSetSchedule.cs" />
     <Compile Include="ViewModels\AccountViewModels.cs" />
     <Compile Include="Models\Agency.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -367,6 +370,11 @@
     <Content Include="Views\Trips\Details.cshtml" />
     <Content Include="Views\Trips\Edit.cshtml" />
     <Content Include="Views\Trips\Index.cshtml" />
+    <Content Include="Views\MySchedules\Create.cshtml" />
+    <Content Include="Views\MySchedules\Delete.cshtml" />
+    <Content Include="Views\MySchedules\Details.cshtml" />
+    <Content Include="Views\MySchedules\Edit.cshtml" />
+    <Content Include="Views\MySchedules\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
